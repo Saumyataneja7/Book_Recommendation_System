@@ -32,5 +32,4 @@ Modify the filtering technique to experiment with collaborative or content-based
 <h2>Future Enhancements</h2>
 Implement hybrid recommendation models combining both techniques for better accuracy.<br>
 Incorporate user feedback for continuous model improvement.<br>
-
 This project demonstrates skills in machine learning, data analysis, and building personalized recommendation systems.
